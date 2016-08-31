@@ -1,18 +1,18 @@
 	/*
 	 *  Connectivity 连通性
-	 *	NetWork 网络
-	 *	Node 结点
+	 *  NetWork 网络
+	 *  Node 结点
 	 *  Link 链路
-	 *	Internet 因特网
-	 *	National Science Foundtion 美国国家科学基金会NSF
-	 *	Internet eXchange Point 因特网交换点IXP
+	 *  Internet 因特网
+	 *  National Science Foundtion 美国国家科学基金会NSF
+	 *  Internet eXchange Point 因特网交换点IXP
 	 *  World Wide Web 万维网 WWW
 	 *  Internet Society 因特网协会
 	 *  Internet Architecture Board 因特网体系结构委员会
 	 *  end system 端系统
-	 *	client 客户
+	 *  client 客户
 	 *  server 服务
-	 *	peer to peer P2P 对等连接
+	 *  peer to peer P2P 对等连接
 	 *  router 路由器
 	 *  packet switching 分组交换
 	 *  circuit switching 电路交换
