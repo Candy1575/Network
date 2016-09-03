@@ -1,4 +1,4 @@
-	/*
+﻿	/*
 	 *  Connectivity 连通性
 	 *  NetWork 网络
 	 *  Node 结点
@@ -34,5 +34,22 @@
 	 *  propagation delay 转播延时
 	 *  activate 激活
 	 *  Open Systems Interconnetion Reference Model 开发系统互连基本参考模型OSI
+	 *
+	 *  application layer 	应用层
+	 *  transport layer  	运输层
+	 *  network layer  	网络层
+	 *  data link layer 	数据链路层
+	 *  physical layer 	物理层
+	 *
+	 * TCP Transmission Control Protocol 传输控制协议 
+	 * UDP User Datagram Protocol 用户数据报协议
+	 *
+	 *
+	 *
+	 *
+	 *
+	 *
+	 *
+	 *
 	 */
 	
