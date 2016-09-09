@@ -46,10 +46,14 @@
 	 *
 	 *
 	 *
-	 *
-	 *
-	 *
-	 *
-	 *
+	 * procedure 规程
+	 * Quadrature Amplitude Modulation 正交振幅调制
+	 * Shielded Twisted Pair 屏蔽双绞线
+	 * Unshieled Twisted Pair 无屏蔽双绞线
+	 * 
+	 * Frequency Division Multiplexing 频分复用
+	 * Time Division Multiplexing 时分复用
+	 * Code Division Multiplexing 码分复用
+	 
 	 */
 	
