@@ -55,5 +55,19 @@
 	 * Time Division Multiplexing 时分复用
 	 * Code Division Multiplexing 码分复用
 	 
+	 * ADSL Asymmetric Digital Subscriber Line 非对称数字用户线
+	 * EPON Ethernet PON 以太网无光源网络
+	 * framing 封装成帧
+	 * CRC Cyclic Redundancy Check 循环冗余检验
+	 * PPP Point-to-Point Protoco 点对点协议
+	 * err detection 差错检测
+	 * PAP Password Authentication Protocol 口令鉴别协议
+	 * CSMA/CD Carrier Sense Multiple Access with Collision Detection 载波监听多点接入/碰撞检测
+	 * Media Access Control MAC层 介质访问控制
+	 
+	 * ARP Address Resolution Protocol 地址解析协议
+	 * ICMP Internet Control Message Protocol 网际控制报文协议
+	 * IGMP Internet Group Management Protocol 网际组管理协议
+	 
 	 */
 	
